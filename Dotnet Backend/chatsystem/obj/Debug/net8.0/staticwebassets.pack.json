@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sami\\source\\repos\\chatsystem\\chatsystem\\wwwroot\\images\\d8c2a54a-f9f2-4939-b038-8412a0abd165_sgsdfgsdfsdfsd.jpeg",
+      "PackagePath": "staticwebassets\\images\\d8c2a54a-f9f2-4939-b038-8412a0abd165_sgsdfgsdfsdfsd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sami\\source\\repos\\chatsystem\\chatsystem\\wwwroot\\images\\ea09c5e9-64e0-4d49-b6ec-898c5cc3a53b_dfgdfgdf.jpeg",
+      "PackagePath": "staticwebassets\\images\\ea09c5e9-64e0-4d49-b6ec-898c5cc3a53b_dfgdfgdf.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.chatsystem.props",
+      "PackagePath": "build\\chatsystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.chatsystem.props",
+      "PackagePath": "buildMultiTargeting\\chatsystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.chatsystem.props",
+      "PackagePath": "buildTransitive\\chatsystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.chatsystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

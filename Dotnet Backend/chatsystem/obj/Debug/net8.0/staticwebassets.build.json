@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ayTppHYmtSlY+R9DTeUIpUsHy6RPEmSKeUB3Fk3O8Zc=",
+  "Source": "chatsystem",
+  "BasePath": "_content/chatsystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chatsystem\\wwwroot",
+      "Source": "chatsystem",
+      "ContentRoot": "C:\\Users\\Sami\\source\\repos\\chatsystem\\chatsystem\\wwwroot\\",
+      "BasePath": "_content/chatsystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
